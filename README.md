@@ -17,7 +17,7 @@ The resource above would have been sufficient if the implementation was with Rap
 - 1Kohm Resistor
 - 3.3v-5v Fan (two wire)
 
-\\* If you you need a setup for a Fan that has three wires -> PWM control built in, this library is *not* for you!
+\* If you you need a setup for a Fan that has three wires -> PWM control built in, this library is *not* for you!
 
 ### Wiring Together
 
